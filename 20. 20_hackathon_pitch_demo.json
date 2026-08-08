@@ -1,0 +1,32 @@
+{
+  "project_name": "SheRise AI",
+  "tagline": "Dream. Plan. Grow. Rise.",
+  "one_line_pitch": "SheRise AI transforms women's education and career aspirations into personalized, achievable and adaptive action plans.",
+  "key_innovations": [
+    "Aspiration Analyzer",
+    "Education-to-Career Mapper",
+    "Skill Gap Analyzer",
+    "Achievability Checker",
+    "What-If Career Simulator",
+    "Career Re-entry Planner",
+    "Daily Micro-Action Planner",
+    "Progress-Based Adaptive Roadmap"
+  ],
+  "demo_steps": [
+    "Enter career aspiration",
+    "Enter education background",
+    "Enter current skills",
+    "Set available study time",
+    "Set target timeline",
+    "Generate career paths",
+    "Analyze skill gaps",
+    "Check goal feasibility",
+    "Generate roadmap",
+    "Generate daily actions",
+    "Change available time using What-If Simulator",
+    "Show updated roadmap",
+    "Generate career readiness report"
+  ],
+  "hackathon_pitch": "Women have aspirations, but turning those aspirations into achievable actions can be difficult. SheRise AI is an AWS PartyRock-based education and career coach that understands a user's current education, skills, goals and available time. It identifies skill gaps, maps education to career possibilities, checks whether goals are realistic, creates personalized roadmaps and converts them into daily actions. Its key innovation is the What-If Career Simulator and adaptive roadmap, which can rebuild the plan when time, deadlines or circumstances change. SheRise AI does not simply tell women what career to choose; it helps them build a realistic path from where they are today to where they want to go.",
+  "final_message": "From aspiration to action. From action to confidence. From confidence to career."
+}
