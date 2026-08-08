@@ -1,0 +1,27 @@
+{
+  "component": "What-If Career Simulator",
+  "purpose": "Show how the career plan changes when the user's circumstances change.",
+  "prompt": "Recalculate the roadmap when the user changes available time, target deadline, current skill level or other planning conditions.",
+  "scenarios": [
+    {
+      "scenario": "Less study time",
+      "input": "",
+      "new_plan": ""
+    },
+    {
+      "scenario": "Earlier deadline",
+      "input": "",
+      "new_plan": ""
+    },
+    {
+      "scenario": "Missed one week",
+      "input": "",
+      "new_plan": ""
+    },
+    {
+      "scenario": "More study time",
+      "input": "",
+      "new_plan": ""
+    }
+  ]
+}
