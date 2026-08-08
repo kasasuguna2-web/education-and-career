@@ -1,0 +1,19 @@
+{
+  "component": "Skill Gap Analyzer",
+  "prompt": "Compare the user's current skills with the commonly required skills for the selected career.",
+  "skill_categories": {
+    "critical": [],
+    "important": [],
+    "optional": []
+  },
+  "gap_analysis": [
+    {
+      "skill": "",
+      "current_level": "",
+      "required_level": "",
+      "gap": "",
+      "priority": "",
+      "recommended_action": ""
+    }
+  ]
+}
