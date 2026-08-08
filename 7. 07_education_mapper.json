@@ -1,0 +1,12 @@
+{
+  "component": "Education to Career Mapper",
+  "purpose": "Connect the user's current education with possible career opportunities.",
+  "prompt": "Analyze the user's educational background and identify suitable career paths, transferable skills and additional learning required.",
+  "output": {
+    "current_education_strengths": [],
+    "career_options": [],
+    "transferable_skills": [],
+    "additional_learning": [],
+    "recommended_next_step": ""
+  }
+}
