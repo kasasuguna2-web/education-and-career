@@ -1,0 +1,18 @@
+{
+  "component": "Progress Tracker",
+  "prompt": "Analyze the user's completed and incomplete tasks and provide an updated action plan.",
+  "progress": {
+    "tasks_completed": 0,
+    "tasks_total": 0,
+    "completion_percentage": 0,
+    "skills_practiced": [],
+    "projects_completed": 0,
+    "strengths": [],
+    "remaining_gaps": []
+  },
+  "recommendations": [
+    "",
+    "",
+    ""
+  ]
+}
