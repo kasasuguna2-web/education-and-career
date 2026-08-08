@@ -1,0 +1,18 @@
+{
+  "project": "SheRise AI",
+  "solution": "An AI-powered education and career planning assistant that transforms a user's aspiration into a personalized roadmap.",
+  "process": [
+    "Understand aspiration",
+    "Analyze current education",
+    "Assess existing skills",
+    "Explore career options",
+    "Identify skill gaps",
+    "Check goal feasibility",
+    "Create education roadmap",
+    "Create career roadmap",
+    "Generate daily actions",
+    "Track progress",
+    "Adapt the plan"
+  ],
+  "final_output": "A personalized education and career action plan."
+}
