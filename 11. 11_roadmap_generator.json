@@ -1,0 +1,42 @@
+{
+  "component": "Career Roadmap Generator",
+  "prompt": "Create a personalized education and career roadmap based on the user's current state, target career and available time.",
+  "phases": [
+    {
+      "phase": 1,
+      "name": "Foundation",
+      "duration": "",
+      "skills": [],
+      "learning_tasks": [],
+      "project": "",
+      "expected_result": ""
+    },
+    {
+      "phase": 2,
+      "name": "Core Skills",
+      "duration": "",
+      "skills": [],
+      "learning_tasks": [],
+      "project": "",
+      "expected_result": ""
+    },
+    {
+      "phase": 3,
+      "name": "Portfolio",
+      "duration": "",
+      "skills": [],
+      "learning_tasks": [],
+      "project": "",
+      "expected_result": ""
+    },
+    {
+      "phase": 4,
+      "name": "Career Preparation",
+      "duration": "",
+      "skills": [],
+      "learning_tasks": [],
+      "project": "",
+      "expected_result": ""
+    }
+  ]
+}
