@@ -1,0 +1,17 @@
+{
+  "component": "Career Readiness Report",
+  "prompt": "Create a qualitative self-assessment of the user's preparation for the selected career based on skills, projects, portfolio and interview preparation.",
+  "readiness_report": {
+    "target_role": "",
+    "technical_skill_readiness": "",
+    "project_readiness": "",
+    "portfolio_readiness": "",
+    "resume_readiness": "",
+    "interview_readiness": "",
+    "overall_status": "",
+    "strengths": [],
+    "priority_improvements": [],
+    "next_three_actions": []
+  },
+  "disclaimer": "This is a self-assessment tool and does not guarantee employment, admission or professional qualification."
+}
