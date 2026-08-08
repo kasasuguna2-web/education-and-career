@@ -1,0 +1,15 @@
+{
+  "component": "Career Re-entry Planner",
+  "purpose": "Help women who want to return to education or employment after a career break.",
+  "prompt": "Create a supportive career re-entry plan using only information voluntarily provided by the user. Focus on refreshing skills, building recent evidence of ability, updating professional profiles and preparing for opportunities.",
+  "reentry_plan": {
+    "skill_refresh": [],
+    "learning_plan": [],
+    "portfolio_project": "",
+    "resume_update": [],
+    "profile_update": [],
+    "interview_practice": [],
+    "networking_actions": [],
+    "next_step": ""
+  }
+}
