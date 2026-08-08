@@ -1,0 +1,14 @@
+{
+  "component": "Achievability Checker",
+  "purpose": "Determine whether the user's goal is realistic within the available time.",
+  "prompt": "Evaluate the career goal using current skills, education, available study time and target deadline. If the goal is highly ambitious, suggest an achievable intermediate goal.",
+  "output": {
+    "goal": "",
+    "feasibility": "",
+    "current_level": "",
+    "main_constraints": [],
+    "recommended_intermediate_goal": "",
+    "suggested_timeline": "",
+    "reasoning": ""
+  }
+}
