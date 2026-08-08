@@ -1,0 +1,25 @@
+{
+  "component": "Daily Action Planner",
+  "prompt": "Convert the current roadmap milestone into small and realistic tasks that can be completed today.",
+  "daily_plan": [
+    {
+      "task": "",
+      "estimated_minutes": 0,
+      "priority": "High",
+      "completion_condition": ""
+    },
+    {
+      "task": "",
+      "estimated_minutes": 0,
+      "priority": "Medium",
+      "completion_condition": ""
+    },
+    {
+      "task": "",
+      "estimated_minutes": 0,
+      "priority": "Low",
+      "completion_condition": ""
+    }
+  ],
+  "daily_goal": ""
+}
