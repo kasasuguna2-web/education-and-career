@@ -1,0 +1,13 @@
+{
+  "component": "Aspiration Analyzer",
+  "purpose": "Understand the user's career aspiration.",
+  "prompt": "Analyze the user's aspiration and convert it into a clear career objective. Identify possible career paths, required skills, education requirements and important milestones.",
+  "output": {
+    "aspiration": "",
+    "target_career": "",
+    "alternative_careers": [],
+    "required_education": [],
+    "required_skills": [],
+    "major_milestones": []
+  }
+}
