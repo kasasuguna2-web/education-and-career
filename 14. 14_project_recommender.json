@@ -1,0 +1,33 @@
+{
+  "component": "Portfolio Project Recommender",
+  "prompt": "Recommend projects that help the user demonstrate the skills required for the selected career.",
+  "projects": [
+    {
+      "project_name": "",
+      "difficulty": "Beginner",
+      "skills": [],
+      "technology": [],
+      "project_description": "",
+      "expected_output": "",
+      "portfolio_value": ""
+    },
+    {
+      "project_name": "",
+      "difficulty": "Intermediate",
+      "skills": [],
+      "technology": [],
+      "project_description": "",
+      "expected_output": "",
+      "portfolio_value": ""
+    },
+    {
+      "project_name": "",
+      "difficulty": "Advanced",
+      "skills": [],
+      "technology": [],
+      "project_description": "",
+      "expected_output": "",
+      "portfolio_value": ""
+    }
+  ]
+}
