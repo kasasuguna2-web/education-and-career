@@ -1,0 +1,12 @@
+{
+  "component": "SMART Goal Generator",
+  "prompt": "Convert the user's broad aspiration into a Specific, Measurable, Achievable, Relevant and Time-bound goal.",
+  "SMART_goal": {
+    "specific": "",
+    "measurable": "",
+    "achievable": "",
+    "relevant": "",
+    "time_bound": ""
+  },
+  "final_goal": ""
+}
