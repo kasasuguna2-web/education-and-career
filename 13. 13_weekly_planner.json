@@ -1,0 +1,15 @@
+{
+  "component": "Weekly Career Planner",
+  "prompt": "Create a realistic weekly schedule according to the user's available time and current career milestone.",
+  "weekly_plan": {
+    "monday": [],
+    "tuesday": [],
+    "wednesday": [],
+    "thursday": [],
+    "friday": [],
+    "saturday": [],
+    "sunday": []
+  },
+  "weekly_target": "",
+  "estimated_total_hours": 0
+}
