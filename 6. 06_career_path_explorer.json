@@ -1,0 +1,17 @@
+{
+  "component": "Career Path Explorer",
+  "prompt": "Generate multiple realistic career paths related to the user's interests, education and aspiration.",
+  "career_path": {
+    "name": "",
+    "education": [],
+    "technical_skills": [],
+    "soft_skills": [],
+    "project_ideas": [],
+    "first_step": ""
+  },
+  "comparison": {
+    "difficulty": "",
+    "preparation_time": "",
+    "recommended_for": ""
+  }
+}
